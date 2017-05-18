@@ -1,0 +1,15 @@
+.starsContainer {
+  position: relative;
+}
+.crop {
+    overflow: hidden;
+    display: inline-block;
+}
+.stars {
+  display: inline-block;
+  position: absolute;
+  right: 30px;
+}
+div {
+    cursor: pointer;
+}
